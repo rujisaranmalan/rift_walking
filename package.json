@@ -1,0 +1,12 @@
+{
+  "name": "rujisaran_malan",
+  "version": "1.0.0",
+  "main": "rujisaran_malan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
